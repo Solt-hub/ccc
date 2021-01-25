@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Word\Word\bin\Debug\netcoreapp3.1\Word.exe
+C:\Users\Administrator\source\repos\Word\Word\bin\Debug\netcoreapp3.1\Word.deps.json
+C:\Users\Administrator\source\repos\Word\Word\bin\Debug\netcoreapp3.1\Word.runtimeconfig.json
+C:\Users\Administrator\source\repos\Word\Word\bin\Debug\netcoreapp3.1\Word.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Word\Word\bin\Debug\netcoreapp3.1\Word.dll
+C:\Users\Administrator\source\repos\Word\Word\bin\Debug\netcoreapp3.1\Word.pdb
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.Form1.resources
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.dll
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.pdb
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.genruntimeconfig.cache
