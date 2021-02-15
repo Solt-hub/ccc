@@ -14,3 +14,4 @@ C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.cspro
 C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.dll
 C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.pdb
 C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Word\Word\obj\Debug\netcoreapp3.1\Word.Form2.resources
